@@ -1,6 +1,8 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_Jaanumowl
+
+Created By Fayas And Ajmal
 
 <div align="center">
   <img src=richusher.jpg>
@@ -45,10 +47,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
+  [![Jannumowl](<img src=b1.jpg.jpg>
  https://github.com/Richuser_b1 |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_Jannumowl](https://github.com/Richuser_b1)  |
 Base, Bug Fixes, Modules | 
   
     
